@@ -28,7 +28,7 @@ header {
   transition: background-color 300ms ease-in-out;
 }
 
-.color_change:hover {
+.color_change:active {
   background-color: red;
   cursor: pointer;
 }
